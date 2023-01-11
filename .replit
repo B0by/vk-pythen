@@ -1,0 +1,2 @@
+a="vinit"
+print(str(a))
